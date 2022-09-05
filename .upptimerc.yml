@@ -8,7 +8,7 @@ sites:
 
 status-website:
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://blinkstore.in/wp-content/uploads/2021/10/logo-blinkstore.svg
   name: Blinkstore Status
   introTitle: "**Blinkstore** Services Status"
   introMessage: This is status page which list public facing domains and websites which are hosted by Blinkstore.
